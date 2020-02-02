@@ -1,2 +1,6 @@
 # LeetCode-Cpp
-  LeetCode solutions written in Cpp.
+  
+
+[LeetCode]: https://leetcode-cn.com
+
+ solutions written in Cpp.
