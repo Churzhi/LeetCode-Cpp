@@ -9,4 +9,4 @@
 
 ### [19.删除链表的倒数第N个节点](https://github.com/Churzhi/LeetCode-Cpp/blob/master/19.删除链表的倒数第N个节点/19.删除链表的倒数第N个节点.md)
 
-### [21. 合并两个有序链表](https://leetcode-cn.com/problems/merge-two-sorted-lists/)
+### [21. 合并两个有序链表](https://github.com/Churzhi/LeetCode-Cpp/blob/master/21.%20合并两个有序链表/21.%20合并两个有序链表.md)
