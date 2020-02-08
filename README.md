@@ -13,5 +13,5 @@
 
 ### [141. 环形链表](https://github.com/Churzhi/LeetCode-Cpp/blob/master/141.%20环形链表/141.%20环形链表.md)
 
-### [206. 反转链表](https://leetcode-cn.com/problems/reverse-linked-list/)
+### [206. 反转链表](https://github.com/Churzhi/LeetCode-Cpp/blob/master/206.%20反转链表/206.%20反转链表.md)
 
