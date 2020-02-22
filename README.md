@@ -18,3 +18,6 @@
 ### [876. 链表的中间结点](https://github.com/Churzhi/LeetCode-Cpp/blob/master/876.%20链表的中间结点/876.%20链表的中间结点.md)
 
 ### [215. 数组中的第K个最大元素](https://leetcode-cn.com/problems/kth-largest-element-in-an-array/)
+
+### [69. x 的平方根](https://leetcode-cn.com/problems/sqrtx/)
+
